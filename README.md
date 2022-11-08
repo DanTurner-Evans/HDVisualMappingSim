@@ -7,3 +7,5 @@ _Kim, S. S., Hermundstad, A. M., Romani, S., Abbott, L. F. & Jayaraman, V. Gener
 doi: 10.1038/s41586-019-1767-1
 
 It does not include the optogenetic stimulation option
+
+See the RingVisMapSim Jupyter Notebook for an example of how to run a simulation
